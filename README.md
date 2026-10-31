@@ -11,6 +11,7 @@ CS50 final project (due July 2027) by Andy.
 
 - **1943 artwork:** the sheets in Andy's uploaded `Medway images.zip` credit Capcom, *1943: The Battle of Midway* (1987). The original download URL, sheet compiler/ripper and licence were not specified in the supplied archive and still need recording; no CC0/public-domain licence is claimed.
 - **Prepared asset pack:** `Medway-1943-transparent-sprites.zip`, delivered separately from this repository. Its `sprites/` folder contains 919 transparent PNG cutouts. Its `backgrounds/` folder contains 97 scenery/tile files, retaining drawn water, sky and terrain. Native pixels were preserved, and the identical Super Ace input sheets were processed once. The archive includes source fingerprints, crop coordinates, previews and an AI-use record.
+- **`assets/sprites/planes/`:** "Top Down Planes Sprite Pack" by Unlucky Studio, CC0 (credit not required, given anyway). 24 planes cropped to transparent PNGs by Claude using `tools/crop_sprites.py`.
 - Add sources, authors and licences for any additional sprites, sounds and fonts as they are introduced.
 
 ## AI use (CS50 academic honesty)
