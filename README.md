@@ -1,6 +1,10 @@
 # Medway 1943
 
-CS50 final project (due July 2027) by Andy.
+Andy's 1943-inspired game project. The first Scratch version is intended for
+CS50 Week 0; a later expansion is intended for the final project.
+
+**Current stage: Week 0 Scratch assignment**, confirmed by Andy on 31 October 2026.
+The final-project AI exception does not apply to this initial submission.
 
 ## Tools
 
@@ -23,10 +27,28 @@ The game's core code and design are my own work.
 
 ### Rules for AI help
 
+**Week 0 is the current assessment.** Follow
+[CS50x's academic honesty policy](https://cs50.harvard.edu/x/2026/honesty/)
+and the [Week 0 assignment](https://cs50.harvard.edu/x/2026/psets/0/).
+
+For the current Week 0 work, ChatGPT and Claude must not suggest or complete
+assessment answers or code. Our working boundary is therefore to leave
+game-specific Scratch block sequences, implementation plans/pseudocode, code
+generation and debugging fixes to Andy and the
+[CS50 Duck](https://cs50.ai/). Do not create or edit the assessed game logic
+on Andy's behalf. Calling the repository a future final project does not change
+the rules for the Week 0 submission.
+
+Repository administration, source/credit records and explanations of general
+course material must remain separate from supplying the assessed solution.
+The AI-use and asset-credit sections above record assistance already provided;
+they are disclosures, not a claim of course approval. The published policy
+does not expressly resolve this particular AI-assisted image-cropping workflow.
+If its use in the Week 0 submission is uncertain, obtain written clarification
+from the course heads as the policy directs.
+
+For the later final project only,
 [CS50x's final-project instructions](https://cs50.harvard.edu/x/2026/project/)
-explicitly permit external AI helpers for the final project, provided the essence
-of the work remains the student's own. Cite any AI use in code comments as the
-course requires, and keep the contributions recorded above accurate as work
-continues. The final-project exception does not apply to the Week 0 Scratch
-assignment or other problem sets; use the
-[CS50 Duck](https://cs50.ai/) for assignment-specific AI help.
+permit external AI helpers, provided the essence of the work remains the
+student's own. Cite AI use in code comments and keep the contribution record
+accurate. Recheck the applicable course rules when that phase begins.
